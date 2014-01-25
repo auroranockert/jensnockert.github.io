@@ -1,9 +1,13 @@
-article.summary h1 {
-  margin-bottom: 5px;
+article h1 {
+  margin-bottom: 7px;
 }
 
 article.summary .meta {
   font-size: 12px;
+}
+
+article.post .meta {
+  font-size: 16px;
 }
 
 article table {
