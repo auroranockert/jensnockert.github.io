@@ -1,0 +1,15 @@
+---
+layout: default
+title: Aventine
+bio: I'm a battle programmer at TopVisible in Malmö, Sweden and studying to be a mathematician or linguist in Lund, Sweden. I think here at blog.aventine.se sometimes.
+---
+
+{% for post in site.posts %}
+<article class='summary'>
+  <a href='{{ post.url }}'><h1>{{ post.title }}</h1></a>
+  <div class='meta'>
+    Posted at <time datetime='{{ post.date }}'>{{ post.date | date_to_string }}</time>
+    {% if post.tags.size > 0 %} -- <span class='tags'>Tagged with {{ post.tags | array_to_sentence_string }}</span>{% endif %}
+  </div>
+</article>
+{% endfor %}

@@ -1,0 +1,66 @@
+*, *:after, *:before {
+    -moz-box-sizing: border-box;
+}
+
+html {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 20px;
+  line-height: 1.3em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Droid Serif', serif;
+  font-weight: bold;
+}
+
+h1 { font-size: 1.9em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.3em; }
+h4 { font-size: 1.2em; }
+h5 { font-size: 1.1em; }
+h6 { font-size: 1.0em; }
+
+code {
+  font-family: 'Droid Sans Mono', monospace;
+}
+
+pre:before {
+  content: attr(codetype) "Code";
+  font-family: 'Droid Sans Mono', monospace;
+  color: white;
+  position: absolute; top: 0px; left: 0px;
+  width: 100%;
+  background: none repeat 0% 0% #76A34C;
+  padding: 5px 0px;
+  text-indent: 15px;
+}
+
+pre {
+  background: none repeat 0% 0% #1D1F21;
+  padding-top: 2.5em; padding-bottom: 1em;
+  position: relative;
+  padding-left: 1em;
+}
+
+/* code:not(pre) {
+/*   border: 1px solid #ddd;
+/*   background-color: #eef;
+/*   padding: 1em;
+/* } */
+
+blockquote {
+  border-left: 6px solid #eee;
+  margin-left: 0.5em;
+  padding-left: 0.5em;
+}
+
+p { margin: 1em 0; }
+
+a { color: #76A34C; text-decoration: none; }
+a:hover { color: #000; }
+a:visited { color: #76A34C; }
+
+.site {
+  width: 700px;
+  margin: 3em auto 2em;
+}

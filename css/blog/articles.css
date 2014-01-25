@@ -1,0 +1,36 @@
+article.summary h1 {
+  margin-bottom: 5px;
+}
+
+article.summary .meta {
+  font-size: 12px;
+}
+
+article table {
+  margin: 0px auto;
+}
+
+article table td {
+  padding: 0.4em;
+
+  text-align: right;
+}
+
+article table th {
+  text-align: center;
+}
+
+article ul, article ol {
+  margin-left: 0;
+}
+
+/* terminal */
+article pre.terminal {
+  border: 1px solid #000;
+  background-color: #333;
+  color: #FFF;
+}
+
+article pre.terminal code {
+  background-color: #333;
+}
