@@ -1,14 +1,16 @@
-*, *:after, *:before {
-    -moz-box-sizing: border-box;
+*, *:before, *:after {
+  -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box;
 }
 
 html {
   font-family: 'Droid Sans', sans-serif;
   font-size: 20px;
-  line-height: 1.3em;
+  line-height: 1.4em;
+  background: hsl(0, 0%, 99%);
 }
 
 h1, h2, h3, h4, h5, h6 {
+  margin-top: 1.4em;
   font-family: 'Droid Serif', serif;
   font-weight: bold;
 }
@@ -22,6 +24,11 @@ h6 { font-size: 1.0em; }
 
 code {
   font-family: 'Droid Sans Mono', monospace;
+  font-size: 16px;
+}
+
+pre code {
+  background: blue;
 }
 
 pre:before {
@@ -40,6 +47,17 @@ pre {
   padding-top: 2.5em; padding-bottom: 1em;
   position: relative;
   padding-left: 1em;
+}
+
+code {
+  border: 1px solid #ddd;
+  background-color: #eef;
+  padding: 0em .2em;
+}
+
+pre code {
+  border: none;
+  background: none repeat 0% 0% #1D1F21;
 }
 
 /* code:not(pre) {
