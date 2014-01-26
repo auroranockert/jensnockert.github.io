@@ -11,6 +11,7 @@ html {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 1.4em;
+  line-height: 1.2em;
   font-family: 'Droid Serif', serif;
   font-weight: bold;
 }
