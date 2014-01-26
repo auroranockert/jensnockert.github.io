@@ -9,4 +9,22 @@ layout: default
   </div>
   
   {{ content }}
+  
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname = 'aventine'
+    var disqus_identifier = {% if page.tumblr_url %}'{{ page.tumblr_url }}'{% else %}'{{ page.disqus_identifier }}'{% endif %}
+    var disqus_title = '{{ page.title }}'
+    var disqus_url = 'http://blog.aventine.se{{page.url}}'
+
+    void function() {
+        var dsq = document.createElement('script')
+
+        dsq.type = 'text/javascript'
+        dsq.async = true
+        dsq.src = '//aventine.disqus.com/embed.js'
+
+        void (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq)
+    }()
+  </script>
 </article>
