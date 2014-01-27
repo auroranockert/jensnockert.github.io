@@ -4,6 +4,7 @@ title: Resolutions
 date: '2012-01-12T03:01:00+01:00'
 tags: 
 tumblr_url: http://blog.aventine.se/post/15700784809/resolutions
+disqus_id: http://blog.aventine.se/post/15700784809
 ---
 I have a New Year's resolution, and it is to generally be a lot more productive. To write more, for example this blog and do less schoolwork and more actual work. Actual work can of course include schoolwork, but only if it actually teaches me something things that I want to, or need to know.
 

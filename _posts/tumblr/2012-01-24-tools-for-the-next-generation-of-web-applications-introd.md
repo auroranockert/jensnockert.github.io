@@ -7,6 +7,7 @@ tags:
 - programming
 - javascript
 tumblr_url: http://blog.aventine.se/post/16413173742/tools-for-the-next-generation-of-web-applications-introd
+disqus_id: http://blog.aventine.se/post/16413173742
 ---
 I do not know how the web will evolve in the future, I don't think that anybody knows how the web of 2020 will look like, or what applications will be popular then.
 

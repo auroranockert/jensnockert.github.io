@@ -6,6 +6,7 @@ tags:
 - Rust
 - SIMD
 tumblr_url: http://blog.aventine.se/post/55669497784/my-vision-for-rust-simd
+disqus_id: http://blog.aventine.se/post/55669497784
 ---
 
 It is no secret that I have on the agenda to try and make Rust into an awesome language for numerics, DSP and similar applications, where low-level programming can be required for speed. Rust is a perfect fit since it is memory-safe, yet doesn't have a GC and generally makes few design decisions that make it significantly slower than C, and to follow up that tradition with a design that improves on the performance of C, I have implemented OpenCL-style vectors in Rust [on Github](https://github.com/jensnockert/rust/tree/simd).

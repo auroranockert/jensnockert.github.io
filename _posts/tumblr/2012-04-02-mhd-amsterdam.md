@@ -10,6 +10,7 @@ tags:
 - Mio
 - Official.fm Labs
 tumblr_url: http://blog.aventine.se/post/20345032144/mhd-amsterdam
+disqus_id: http://blog.aventine.se/post/20345032144
 ---
 I think I might have one of the best jobs in the world, last weekend the [Official.fm Labs](http://official.fm/labs) team went to [Music Hack Day: Amsterdam](http://amsterdam.musichackday.org/2012/index.php?page=Main+page), and I must say, I had a most wonderful time.
 

@@ -4,6 +4,7 @@ title: Exploding dice
 date: '2012-07-26T00:01:24+02:00'
 tags: 
 tumblr_url: http://blog.aventine.se/post/28007546498/exploding-dice
+disqus_id: http://blog.aventine.se/post/28007546498
 mathjax: true
 ---
 It is too warm to do any actual work in Sweden today, so I instead sat in my apartment, playing Classic Battletech with myself, and after a while; I thought that since I am an adult and can have any imaginary friends I like, that I wanted to incorporate some Mechwarrior (the accompanying role-playing game to Classic Battletech) characters to create a more interesting environment to lose time in.

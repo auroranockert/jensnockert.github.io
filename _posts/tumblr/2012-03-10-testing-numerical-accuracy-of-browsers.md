@@ -6,6 +6,7 @@ tags:
 - Floating Point
 - Javascript
 tumblr_url: http://blog.aventine.se/post/19071382040/testing-numerical-accuracy-of-browsers
+disqus_id: http://blog.aventine.se/post/19071382040
 ---
 According to the standard, only the arithmetic operations in Javascript need to be correctly rounded, the functions in `Math` does not have any accuracy requirements.
 

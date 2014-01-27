@@ -7,6 +7,7 @@ tags:
 - Way Out West Hack Battle
 - Youtify
 tumblr_url: http://blog.aventine.se/post/29121670632/way-out-west-hack-battle
+disqus_id: http://blog.aventine.se/post/29121670632
 ---
 I went to the 'Way Out West Hack Battle' with Per Thulin from Youtify, and we got quite a few new nice features done for Youtify (see [http://blog.youtify.com/2012/08/wowhack-lastfm-recommendations-and.html](http://blog.youtify.com/2012/08/wowhack-lastfm-recommendations-and.html)) including Last.fm scrobbling and Last.fm recommendations.
 

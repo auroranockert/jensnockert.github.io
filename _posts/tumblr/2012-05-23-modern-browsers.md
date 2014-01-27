@@ -6,6 +6,7 @@ tags:
 - Rants
 - Modern Browsers
 tumblr_url: http://blog.aventine.se/post/23614241360/modern-browsers
+disqus_id: http://blog.aventine.se/post/23614241360
 ---
 Today Google released a doodle, it was well executed, fun and I think that Robert Moog would have enjoyed it. But this isn't about the doodle, it is about a small piece of text that Google shows just beneath it.
 

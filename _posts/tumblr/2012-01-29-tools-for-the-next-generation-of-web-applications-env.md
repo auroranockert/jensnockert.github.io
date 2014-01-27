@@ -9,6 +9,7 @@ tags:
 - WebCL
 - River Trail
 tumblr_url: http://blog.aventine.se/post/16665382175/tools-for-the-next-generation-of-web-applications-env
+disqus_id: http://blog.aventine.se/post/16665382175
 ---
  > A warning, most of these extensions may have extreme security issues currently, they are prototypes after all. Use a separate browser instance and profile for this series.
 

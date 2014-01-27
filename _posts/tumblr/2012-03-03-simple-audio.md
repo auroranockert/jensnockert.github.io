@@ -7,6 +7,7 @@ tags:
 - Web Audio
 - Media Stream
 tumblr_url: http://blog.aventine.se/post/18627646284/simple-audio
+disqus_id: http://blog.aventine.se/post/18627646284
 ---
 We have been discussing a lot of audio at Official.fm Labs, and since we're working with audio in different ways and have different views on what should be a first step; I am throwing out a proposal for them, and for you.
 

@@ -7,6 +7,7 @@ tags:
 - Computer Science
 - Forgiveness
 tumblr_url: http://blog.aventine.se/post/19199137085/tweeting-about-computer-science-education
+disqus_id: http://blog.aventine.se/post/19199137085
 ---
 I did send out a tweet today, and I realized only in retrospect that some people reacted very negatively on that. I am sorry about that, my intention was not to insult anyone, or their education.
 

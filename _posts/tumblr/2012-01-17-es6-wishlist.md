@@ -7,6 +7,7 @@ tags:
 - javascript
 - harmony
 tumblr_url: http://blog.aventine.se/post/16015782471/es6-wishlist
+disqus_id: http://blog.aventine.se/post/16015782471
 ---
 First, I am not a web designer, and I realize that my needs are not the same as everyone elses. But I am going to argue that there are only a few features that _need_ to be added to Javascript in the next version (ES6 or Harmony).
 

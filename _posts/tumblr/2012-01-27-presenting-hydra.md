@@ -7,6 +7,7 @@ tags:
 - webcl
 - hydra
 tumblr_url: http://blog.aventine.se/post/16545467735/presenting-hydra
+disqus_id: http://blog.aventine.se/post/16545467735
 ---
 I just want to present [Hydra](https://github.com/JensNockert/hydra), a small library I developed to enable applications to have a unified interface to the WebCL prototypes, even before the specification is ready.
 

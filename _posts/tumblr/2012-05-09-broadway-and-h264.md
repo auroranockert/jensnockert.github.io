@@ -11,6 +11,7 @@ tags:
 - Audio
 - Video
 tumblr_url: http://blog.aventine.se/post/22679577526/broadway-and-h264
+disqus_id: http://blog.aventine.se/post/22679577526
 ---
 I have written a lot of audio decoders in Javascript, and helped write a few more. I have never tackled video for a few reasons, and I'll try to sum up why there will probably never be one implemented in 'pure' Javascript, and the methods with which I think it will be implemented instead.
 

@@ -9,6 +9,7 @@ tags:
 - culture
 - weird
 tumblr_url: http://blog.aventine.se/post/15744764385/nightcore
+disqus_id: http://blog.aventine.se/post/15744764385
 ---
 I discovered Nightcore in the deeper ends of Youtube the other day, a fascinating sub-genre of trance that seems to be mostly based on and around Youtube, and where the defining quality of the genre seems to be remixes of popular songs with an increased pitch and tempo.
 
